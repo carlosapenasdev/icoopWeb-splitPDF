@@ -10,4 +10,8 @@ cd ./icoopWeb-splitPDF
 composer install
 ```
 
-And then modifi index.php to your use.
+And then modify index.php to your use.
+
+## Ho helped?
+[setasign/fpdi](https://packagist.org/packages/setasign/fpdi)
+[smalot/pdfparser](https://packagist.org/packages/smalot/pdfparser)
