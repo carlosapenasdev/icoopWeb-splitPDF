@@ -5,7 +5,7 @@ Project developed by [Carlos Santos](https://www.workana.com/freelancer/19a05184
 ## How use it?
 ```
 cd ./your-path/
-git clone git@github.com:carlossantoswd/icoopWeb-splitPDF.git
+git clone git@github.com:carlosapenasdev/icoopWeb-splitPDF.git
 cd ./icoopWeb-splitPDF
 composer install
 ```
